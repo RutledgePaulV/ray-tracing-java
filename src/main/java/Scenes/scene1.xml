@@ -1,0 +1,22 @@
+<scene>
+	<GeometricObjects>
+		<Sphere>
+			<Center>
+			0,0,0
+			</Center>
+			
+			<Radius>
+			15.0
+			</Radius>
+			
+			<Color>
+			1.0,0,0
+			</Color>
+			
+		</Sphere>
+	</GeometricObjects>
+	
+	<LightSources>
+	
+	</LightSources>
+</scene>
